@@ -1,0 +1,10 @@
+.background{
+    background-image:url("Art.jpeg");
+    background-position: center;
+    background-size: cover;
+}
+canvas{
+    background-color: white;
+    border: 10px ridge black;
+    
+}
